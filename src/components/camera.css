@@ -1,0 +1,73 @@
+.button {
+  border: none;
+  color: rgb(122, 66, 66);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 3vw;
+  margin: 4px 2px;
+}
+.screenshot {
+  border-radius: 70%;
+  background-color: brown;
+  height: 100px;
+  width: 100px;
+}
+.send {
+  width: 18%;
+}
+.back {
+  width: 18%;
+}
+
+.rectangle {
+  width: 100%;
+  background-color: #9b9b9b;
+  background-image: url("https://www.colourbox.com/preview/29638410-wood-background.jpg");
+}
+
+.rectangle video {
+  width: calc(100% - 30px);
+  margin-top: 15px;
+  height: calc(100vh - 130px);
+}
+
+.rectangle .img_container {
+  width: 100%;
+  padding-top: 15px;
+  height: calc(100vh - 130px);
+  background-color: inherit;
+  background-image: inherit;
+  display: grid;
+  align-items: center;
+}
+
+.rectangle .img_container img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  height: 100px;
+}
+
+#video {
+  height: 100%;
+  min-height: 100px;
+  width: 260px;
+}
+
+.loading {
+  height: 30px;
+  margin-bottom: 2px;
+}
+
+#outer-circle {
+  background: #adb1b6;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
