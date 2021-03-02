@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/camera-challenge-react/static/css/main.4c85ce82.chunk.css",
+    "main.js": "/camera-challenge-react/static/js/main.3499a3a2.chunk.js",
+    "main.js.map": "/camera-challenge-react/static/js/main.3499a3a2.chunk.js.map",
+    "runtime-main.js": "/camera-challenge-react/static/js/runtime-main.d7a21b86.js",
+    "runtime-main.js.map": "/camera-challenge-react/static/js/runtime-main.d7a21b86.js.map",
+    "static/js/2.fbaf9443.chunk.js": "/camera-challenge-react/static/js/2.fbaf9443.chunk.js",
+    "static/js/2.fbaf9443.chunk.js.map": "/camera-challenge-react/static/js/2.fbaf9443.chunk.js.map",
+    "index.html": "/camera-challenge-react/index.html",
+    "precache-manifest.db2201442b43c69aec830bc30cdff2ea.js": "/camera-challenge-react/precache-manifest.db2201442b43c69aec830bc30cdff2ea.js",
+    "service-worker.js": "/camera-challenge-react/service-worker.js",
+    "static/css/main.4c85ce82.chunk.css.map": "/camera-challenge-react/static/css/main.4c85ce82.chunk.css.map",
+    "static/js/2.fbaf9443.chunk.js.LICENSE.txt": "/camera-challenge-react/static/js/2.fbaf9443.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a21b86.js",
+    "static/js/2.fbaf9443.chunk.js",
+    "static/css/main.4c85ce82.chunk.css",
+    "static/js/main.3499a3a2.chunk.js"
+  ]
+}
